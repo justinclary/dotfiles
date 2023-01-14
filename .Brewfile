@@ -33,11 +33,6 @@ brew 'kubectx'
 brew 'int128/kubelogin/kubelogin'
 brew 'helm'
 
-# python
-brew 'poetry'
-brew 'pyenv'
-brew 'pyenv-virtualenv'
-
 #-----------------------------------------
 # App casks
 #-----------------------------------------
